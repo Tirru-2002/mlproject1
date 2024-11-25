@@ -1,9 +1,8 @@
-
-
-.fake
-
-#Environment
-
-.artifacts
-.env
-.venv
+venv/
+catboost/
+xgboost/
+*.pyd
+*.dll
+*.pyc
+*.log
+__pycache__/
